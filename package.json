@@ -1,0 +1,29 @@
+{
+  "name": "hf-util",
+  "version": "1.0.0",
+  "description": "js util",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start test/config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hushicai/hf-util.git"
+  },
+  "author": "hushicai <bluthcy@gmail.com> (http://hushicai.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hushicai/hf-util/issues"
+  },
+  "homepage": "https://github.com/hushicai/hf-util",
+  "devDependencies": {
+    "karma": "^0.12.31",
+    "jasmine-core": "^2.2.0",
+    "karma-jasmine": "^0.3.5",
+    "karma-requirejs": "^0.2.2",
+    "requirejs": "^2.1.17",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-coverage": "^0.2.7",
+    "karma-mocha-reporter": "^1.0.2"
+  }
+}
