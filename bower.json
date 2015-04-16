@@ -1,0 +1,18 @@
+{
+  "name": "hf-util",
+  "version": "1.0.0",
+  "homepage": "https://github.com/hushicai/hf-util",
+  "description": "js util",
+  "main": "index.js",
+  "authors": [
+    "hushicai"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
